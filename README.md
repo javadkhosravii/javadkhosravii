@@ -1,6 +1,7 @@
-<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?" />
+
 # 💫 About Me:
-Hello! I'm a frontend developer dedicated to transforming designs into interactive and visually stunning web experiences. With my expertise in HTML, CSS, and JavaScript, I craft user-centric interfaces that seamlessly blend aesthetics with functionality, aiming to elevate every user's interaction journey.
+I am a front-end developer
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javadkhosravii) 
 
