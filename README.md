@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a front-end developer who has been solving problems for more than 5 years !!
-
+Hello! I'm a frontend developer dedicated to transforming designs into interactive and visually stunning web experiences. With my expertise in HTML, CSS, and JavaScript, I craft user-centric interfaces that seamlessly blend aesthetics with functionality, aiming to elevate every user's interaction journey.
+<img alt='image' src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0MjE0MjIsIm5iZiI6MTcwOTQyMTEyMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAyVDIzMTIwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5ZGI3Nzg0OWM2MDg2ZDc2YWNiOGFlZTU4NTdmNDMwOGQwMzJlZDcwZWYyNTg5Yjc2MjU3NThkNzYxOTQwNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LNYLg68jnoeGK42qYpOYssbqzIq4tKsX5zQ9MUc6pOk"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mnodhe) 
 
