@@ -5,7 +5,7 @@ Excited to work together.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
- ## 🌐 Socials:
+ # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javadkhosravii) 
 
 # 💻 Tech Stack:
