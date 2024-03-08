@@ -1,4 +1,5 @@
-<br/>💫 About Me:
+💫 About Me:
+<br/>
 I'm javad khosravi, a frontend developer driven by passion and dedication. I specialize in crafting captivating digital experiences through HTML, CSS, and JavaScript.
 <br/>
 Excited to work together.
